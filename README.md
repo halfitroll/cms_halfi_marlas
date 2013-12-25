@@ -1,0 +1,1 @@
+﻿This is our little project to create simple, universal cms mainly for our use. If you find any errors, security issues contact us.
